@@ -47,7 +47,7 @@ To run this project, you will need to add the following environment variables to
 ## Rorando o bot
 
 ```bash
-  node botannotation.js
+  npm start
 ```
 
 ## Visualizando as informações do Banco
