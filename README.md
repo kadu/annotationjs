@@ -44,7 +44,7 @@ To run this project, you will need to add the following environment variables to
 `CHANNEL_NAME`
 
 `CLIENT_ID`
-## Rorando o bot
+## Rodando o bot
 
 ```bash
   npm start
