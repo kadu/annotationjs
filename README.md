@@ -43,10 +43,10 @@ To run this project, you will need to add the following environment variables to
 
 `CHANNEL_NAME`
 
-## Rorando o bot
+## Rodando o bot
 
 ```bash
-  node botannotation.js
+  npm start
 ```
 
 ## Visualizando as informações do Banco
