@@ -43,7 +43,6 @@ To run this project, you will need to add the following environment variables to
 
 `CHANNEL_NAME`
 
-`CLIENT_ID`
 ## Rodando o bot
 
 ```bash
